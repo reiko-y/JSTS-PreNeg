@@ -1,0 +1,278 @@
+{
+  "非": [
+    {
+      "surface": "存在",
+      "is_correct": true
+    },
+    {
+      "surface": "常に",
+      "is_correct": false
+    },
+    {
+      "surface": "議する",
+      "is_correct": false
+    },
+    {
+      "surface": "金属",
+      "is_correct": true
+    }
+  ],
+  "不": [
+    {
+      "surface": "ため",
+      "is_correct": false
+    },
+    {
+      "surface": "人気",
+      "is_correct": true
+    },
+    {
+      "surface": "健康",
+      "is_correct": true
+    },
+    {
+      "surface": "入り",
+      "is_correct": false
+    },
+    {
+      "surface": "出来",
+      "is_correct": false
+    },
+    {
+      "surface": "十分",
+      "is_correct": true
+    },
+    {
+      "surface": "参加",
+      "is_correct": true
+    },
+    {
+      "surface": "可能",
+      "is_correct": true
+    },
+    {
+      "surface": "向き",
+      "is_correct": true
+    },
+    {
+      "surface": "器用",
+      "is_correct": true
+    },
+    {
+      "surface": "好き",
+      "is_correct": true
+    },
+    {
+      "surface": "当たり",
+      "is_correct": true
+    },
+    {
+      "surface": "必要",
+      "is_correct": true
+    },
+    {
+      "surface": "拡大",
+      "is_correct": true
+    },
+    {
+      "surface": "揃い",
+      "is_correct": true
+    },
+    {
+      "surface": "整頓",
+      "is_correct": true
+    },
+    {
+      "surface": "景気",
+      "is_correct": false
+    },
+    {
+      "surface": "格好",
+      "is_correct": false
+    },
+    {
+      "surface": "案内",
+      "is_correct": false
+    },
+    {
+      "surface": "注意",
+      "is_correct": true
+    },
+    {
+      "surface": "消化",
+      "is_correct": false
+    },
+    {
+      "surface": "渡り",
+      "is_correct": false
+    },
+    {
+      "surface": "生産",
+      "is_correct": true
+    },
+    {
+      "surface": "用品",
+      "is_correct": false
+    },
+    {
+      "surface": "用意",
+      "is_correct": true
+    },
+    {
+      "surface": "細工",
+      "is_correct": false
+    },
+    {
+      "surface": "統一",
+      "is_correct": true
+    },
+    {
+      "surface": "自然",
+      "is_correct": true
+    },
+    {
+      "surface": "自由",
+      "is_correct": true
+    },
+    {
+      "surface": "規則",
+      "is_correct": false
+    },
+    {
+      "surface": "透明",
+      "is_correct": true
+    }
+  ],
+  "無": [
+    {
+      "surface": "事故",
+      "is_correct": true
+    },
+    {
+      "surface": "停車",
+      "is_correct": true
+    },
+    {
+      "surface": "制限",
+      "is_correct": true
+    },
+    {
+      "surface": "国籍",
+      "is_correct": true
+    },
+    {
+      "surface": "意味",
+      "is_correct": true
+    },
+    {
+      "surface": "所作",
+      "is_correct": true
+    },
+    {
+      "surface": "案内",
+      "is_correct": false
+    },
+    {
+      "surface": "目的",
+      "is_correct": true
+    },
+    {
+      "surface": "着陸",
+      "is_correct": true
+    },
+    {
+      "surface": "競争",
+      "is_correct": false
+    },
+    {
+      "surface": "細工",
+      "is_correct": false
+    },
+    {
+      "surface": "表情",
+      "is_correct": true
+    },
+    {
+      "surface": "造作",
+      "is_correct": false
+    }
+  ],
+  "未": [
+    {
+      "surface": "だに",
+      "is_correct": false
+    },
+    {
+      "surface": "確認",
+      "is_correct": true
+    },
+    {
+      "surface": "開封",
+      "is_correct": true
+    }
+  ],
+  "反": [
+    {
+      "surface": "あたり",
+      "is_correct": false
+    },
+    {
+      "surface": "する",
+      "is_correct": false
+    },
+    {
+      "surface": "せる",
+      "is_correct": false
+    },
+    {
+      "surface": "って",
+      "is_correct": false
+    },
+    {
+      "surface": "れる",
+      "is_correct": false
+    },
+    {
+      "surface": "作用",
+      "is_correct": true
+    },
+    {
+      "surface": "当たり",
+      "is_correct": false
+    },
+    {
+      "surface": "芸術",
+      "is_correct": false
+    },
+    {
+      "surface": "返り",
+      "is_correct": false
+    }
+  ],
+  "異": [
+    {
+      "surface": "なり",
+      "is_correct": false
+    },
+    {
+      "surface": "なる",
+      "is_correct": false
+    },
+    {
+      "surface": "国人",
+      "is_correct": false
+    },
+    {
+      "surface": "国風",
+      "is_correct": false
+    },
+    {
+      "surface": "数体",
+      "is_correct": false
+    },
+    {
+      "surface": "民族",
+      "is_correct": false
+    }
+  ]
+}

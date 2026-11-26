@@ -1,0 +1,1294 @@
+[
+  {
+    "sentence_pair_id": 11,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "オレンジにカミソリの刃が一枚刺さり、ビンと金属の容器が置いてあります。",
+        "sentence_id": "108507",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 21,
+            "end": 23,
+            "original_word": "金属",
+            "new_text": "非金属",
+            "augmented_sentence": "オレンジにカミソリの刃が一枚刺さり、ビンと非金属の容器が置いてあります。",
+            "revision_status": "correct",
+            "revised_sentence": "オレンジにカミソリの刃が一枚刺さり、ビンと非金属の容器が置いてあります。"
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 60,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "信号が赤の表示になり乗用車が停車しています。",
+        "sentence_id": "122280",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 14,
+            "end": 16,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "信号が赤の表示になり乗用車が無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 61,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "黄色いボンネットバスが停車しています。",
+        "sentence_id": "122344",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 11,
+            "end": 13,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "黄色いボンネットバスが無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 79,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "汚れたバスルームの金属フレームに光が反射しています。",
+        "sentence_id": "128311",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 9,
+            "end": 11,
+            "original_word": "金属",
+            "new_text": "非金属",
+            "augmented_sentence": "汚れたバスルームの非金属フレームに光が反射しています。",
+            "revision_status": "correct",
+            "revised_sentence": "汚れたバスルームの非金属フレームに光が反射しています。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 123,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "路上に二階建てバスが停車しています。",
+        "sentence_id": "13840",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 10,
+            "end": 12,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "路上に二階建てバスが無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 184,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "自転車競技を沢山の男性が参加しています。",
+        "sentence_id": "38021",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 12,
+            "end": 14,
+            "original_word": "参加",
+            "new_text": "不参加",
+            "augmented_sentence": "自転車競技を沢山の男性が不参加しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 196,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "飛行場に停車している航空機のドアが開いています。",
+        "sentence_id": "46081",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 4,
+            "end": 6,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "飛行場に無停車している航空機のドアが開いています。",
+            "revision_status": "manual-revision",
+            "revised_sentence": "飛行場に無停車の航空機のドアが開いています。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 213,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "青いトラックの販売車が停車しています。",
+        "sentence_id": "83695",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 11,
+            "end": 13,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "青いトラックの販売車が無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 217,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "茶色い建物の側の道路に自動車が停車しています。",
+        "sentence_id": "52039",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 15,
+            "end": 17,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "茶色い建物の側の道路に自動車が無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 235,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "黄色い二階建てバスが街中で停車しています。",
+        "sentence_id": "105538",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 13,
+            "end": 15,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "黄色い二階建てバスが街中で無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 244,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "バス停に赤色のバスが1台停車しています。",
+        "sentence_id": "80233",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 12,
+            "end": 14,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "バス停に赤色のバスが1台無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "赤色のバスがバス亭に停車しています。",
+        "sentence_id": "80235",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 10,
+            "end": 12,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "赤色のバスがバス亭に無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 251,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "乗客のいる駅のホームに電車が停車しています。",
+        "sentence_id": "64717",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 14,
+            "end": 16,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "乗客のいる駅のホームに電車が無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 282,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "綺麗に整頓された木製の洗面台です。",
+        "sentence_id": "78111",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 3,
+            "end": 5,
+            "original_word": "整頓",
+            "new_text": "不整頓",
+            "augmented_sentence": "綺麗に不整頓された木製の洗面台です。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 287,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "調理器具が整頓されたキッチンがあります。",
+        "sentence_id": "80908",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 5,
+            "end": 7,
+            "original_word": "整頓",
+            "new_text": "不整頓",
+            "augmented_sentence": "調理器具が不整頓されたキッチンがあります。",
+            "revision_status": "manual-revision",
+            "revised_sentence": "調理器具が不整頓なキッチンがあります。"
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 298,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "広い道にバスが停車しているところです。",
+        "sentence_id": "110294",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 7,
+            "end": 9,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "広い道にバスが無停車しているところです。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 312,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "道路脇に宅配トラックが停車しているところです。",
+        "sentence_id": "88015",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 11,
+            "end": 13,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "道路脇に宅配トラックが無停車しているところです。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 406,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "黄色と青のデザインの電車が駅のホームに停車しています。",
+        "sentence_id": "121716",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 19,
+            "end": 21,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "黄色と青のデザインの電車が駅のホームに無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "正面上部が黄色、下部が青色の電車が停車しています。",
+        "sentence_id": "121720",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 17,
+            "end": 19,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "正面上部が黄色、下部が青色の電車が無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 427,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "駅のホームに列車が三両停車しています。",
+        "sentence_id": "117445",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 11,
+            "end": 13,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "駅のホームに列車が三両無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 510,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "速度制限は40キロで、信号の色は赤です。",
+        "sentence_id": "16845",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 2,
+            "end": 4,
+            "original_word": "制限",
+            "new_text": "無制限",
+            "augmented_sentence": "速度無制限は40キロで、信号の色は赤です。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 539,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "カラフルな列車が駅のホームに停車しています",
+        "sentence_id": "39488",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 14,
+            "end": 16,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "カラフルな列車が駅のホームに無停車しています",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 547,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "整理整頓されたキッチンがあります。",
+        "sentence_id": "41721",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 2,
+            "end": 4,
+            "original_word": "整頓",
+            "new_text": "不整頓",
+            "augmented_sentence": "整理不整頓されたキッチンがあります。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 582,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "白い屋根の建物の前に青い電車が停車しています。",
+        "sentence_id": "57654",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 15,
+            "end": 17,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "白い屋根の建物の前に青い電車が無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 594,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "交差点に注意を促す標識があります。",
+        "sentence_id": "64448",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 4,
+            "end": 6,
+            "original_word": "注意",
+            "new_text": "不注意",
+            "augmented_sentence": "交差点に不注意を促す標識があります。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 680,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "アルミの銀色がきれいな、電車が駅のホームに停車しています。",
+        "sentence_id": "69573",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 21,
+            "end": 23,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "アルミの銀色がきれいな、電車が駅のホームに無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 715,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "道路に灰色のバスが停車しています。",
+        "sentence_id": "100809",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 9,
+            "end": 11,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "道路に灰色のバスが無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "１台のバスが、道路の脇に停車しています。",
+        "sentence_id": "100813",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 12,
+            "end": 14,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "１台のバスが、道路の脇に無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 757,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "キッチンは生理整頓されており、きれいな状態です。",
+        "sentence_id": "115051",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 7,
+            "end": 9,
+            "original_word": "整頓",
+            "new_text": "不整頓",
+            "augmented_sentence": "キッチンは生理不整頓されており、きれいな状態です。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 767,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "女の人の隣ですごい表情をしながら歯を磨いている男性がいます。",
+        "sentence_id": "117251",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 9,
+            "end": 11,
+            "original_word": "表情",
+            "new_text": "無表情",
+            "augmented_sentence": "女の人の隣ですごい無表情をしながら歯を磨いている男性がいます。",
+            "revision_status": "correct",
+            "revised_sentence": "女の人の隣ですごい無表情をしながら歯を磨いている男性がいます。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 769,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "一番手前には食べかけのピザが白い皿に乗せてあるのが見え、中央の女性がピザを手に持って座り後ろを向き、後ろの２人の男性のうち左の人もピザを手に持っています。",
+        "sentence_id": "31032",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 47,
+            "end": 49,
+            "original_word": "向き",
+            "new_text": "不向き",
+            "augmented_sentence": "一番手前には食べかけのピザが白い皿に乗せてあるのが見え、中央の女性がピザを手に持って座り後ろを不向き、後ろの２人の男性のうち左の人もピザを手に持っています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 773,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "停車している自動車の横で馬に乗っている人がいます。",
+        "sentence_id": "42036",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 0,
+            "end": 2,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "無停車している自動車の横で馬に乗っている人がいます。",
+            "revision_status": "manual-revision",
+            "revised_sentence": "無停車の自動車の横で馬に乗っている人がいます。"
+          }
+        ]
+      },
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "停車している自動車の近くに馬に乗った人がいます。",
+        "sentence_id": "42040",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 0,
+            "end": 2,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "無停車している自動車の近くに馬に乗った人がいます。",
+            "revision_status": "manual-revision",
+            "revised_sentence": "無停車の自動車の近くに馬に乗った人がいます。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 812,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "道路に停車している赤と白のバスです。",
+        "sentence_id": "128902",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 3,
+            "end": 5,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "道路に無停車している赤と白のバスです。",
+            "revision_status": "manual-revision",
+            "revised_sentence": "道路に無停車の赤と白のバスです。"
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 834,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "工事中の通りには注意喚起のコーンや誘導版が設置されていました。",
+        "sentence_id": "4718",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 8,
+            "end": 10,
+            "original_word": "注意",
+            "new_text": "不注意",
+            "augmented_sentence": "工事中の通りには不注意喚起のコーンや誘導版が設置されていました。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 854,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "グレーの色で統一されたシステムキッチンです。",
+        "sentence_id": "14365",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 6,
+            "end": 8,
+            "original_word": "統一",
+            "new_text": "不統一",
+            "augmented_sentence": "グレーの色で不統一されたシステムキッチンです。",
+            "revision_status": "manual-revision",
+            "revised_sentence": "グレーの色で不統一なシステムキッチンです。"
+          }
+        ]
+      },
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "キッチンは整理整頓されており、きれいな状態です。",
+        "sentence_id": "14368",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 7,
+            "end": 9,
+            "original_word": "整頓",
+            "new_text": "不整頓",
+            "augmented_sentence": "キッチンは整理不整頓されており、きれいな状態です。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 878,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "飛行場には飛行機が着陸しています。",
+        "sentence_id": "20614",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 9,
+            "end": 11,
+            "original_word": "着陸",
+            "new_text": "無着陸",
+            "augmented_sentence": "飛行場には飛行機が無着陸しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 889,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "モノトーンで統一された洗面台に物が置かれています。",
+        "sentence_id": "27683",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 6,
+            "end": 8,
+            "original_word": "統一",
+            "new_text": "不統一",
+            "augmented_sentence": "モノトーンで不統一された洗面台に物が置かれています。",
+            "revision_status": "manual-revision",
+            "revised_sentence": "モノトーンで不統一な洗面台に物が置かれています。"
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 996,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "どこかの駅にて銀色の電車が停車している様子です。",
+        "sentence_id": "72384",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 13,
+            "end": 15,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "どこかの駅にて銀色の電車が無停車している様子です。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 1012,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "保線に数台の列車が停車しています。",
+        "sentence_id": "47795",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 9,
+            "end": 11,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "保線に数台の列車が無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1025,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "歩道に停めてあるオートバイにはスピードメーターが見当たりません。",
+        "sentence_id": "82859",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 25,
+            "end": 28,
+            "original_word": "当たり",
+            "new_text": "不当たり",
+            "augmented_sentence": "歩道に停めてあるオートバイにはスピードメーターが見不当たりません。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 1077,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "建物の前に、青いバスが停車しています。",
+        "sentence_id": "99718",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 11,
+            "end": 13,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "建物の前に、青いバスが無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 1093,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "電車の近くに自動車が停車しています。",
+        "sentence_id": "102718",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 10,
+            "end": 12,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "電車の近くに自動車が無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1106,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "緑の野菜と、マカロニが拡大されて写っています。",
+        "sentence_id": "55216",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 11,
+            "end": 13,
+            "original_word": "拡大",
+            "new_text": "不拡大",
+            "augmented_sentence": "緑の野菜と、マカロニが不拡大されて写っています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1116,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "ピエロが運転する黄色の車両が広場に停車しています。",
+        "sentence_id": "110866",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 17,
+            "end": 19,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "ピエロが運転する黄色の車両が広場に無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 1177,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "四角い金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+        "sentence_id": "7813",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 3,
+            "end": 5,
+            "original_word": "金属",
+            "new_text": "非金属",
+            "augmented_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+            "revision_status": "correct",
+            "revised_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。"
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 1178,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "四角い金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+        "sentence_id": "7813",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 3,
+            "end": 5,
+            "original_word": "金属",
+            "new_text": "非金属",
+            "augmented_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+            "revision_status": "correct",
+            "revised_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。"
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 1197,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "建物の前のバス停に二階建てバスが停車しています。",
+        "sentence_id": "14998",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 16,
+            "end": 18,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "建物の前のバス停に二階建てバスが無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "バス停に二階建てバスが停車しています。",
+        "sentence_id": "15001",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 11,
+            "end": 13,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "バス停に二階建てバスが無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1245,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "綺麗に整頓された便器と洗面所です。",
+        "sentence_id": "62185",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 3,
+            "end": 5,
+            "original_word": "整頓",
+            "new_text": "不整頓",
+            "augmented_sentence": "綺麗に不整頓された便器と洗面所です。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1285,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "雪の有る線路にオレンジ色の電車が停車しています。",
+        "sentence_id": "51147",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 16,
+            "end": 18,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "雪の有る線路にオレンジ色の電車が無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 1300,
+    "sentences": [
+      {
+        "sent1_or_sent2": "s1",
+        "plain_sentence": "男の子と赤ちゃんが緑色の半透明のフリスビーを持って草むらに座っています。",
+        "sentence_id": "56496",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 13,
+            "end": 15,
+            "original_word": "透明",
+            "new_text": "不透明",
+            "augmented_sentence": "男の子と赤ちゃんが緑色の半不透明のフリスビーを持って草むらに座っています。",
+            "revision_status": "manual-revision",
+            "revised_sentence": "男の子と赤ちゃんが緑色の不透明のフリスビーを持って草むらに座っています。"
+          }
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "sentence_pair_id": 1312,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "透明なトレーに揚げ物が入れられています。",
+        "sentence_id": "61050",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 0,
+            "end": 2,
+            "original_word": "透明",
+            "new_text": "不透明",
+            "augmented_sentence": "不透明なトレーに揚げ物が入れられています。",
+            "revision_status": "correct",
+            "revised_sentence": "不透明なトレーに揚げ物が入れられています。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1333,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "4台の赤い２階建てバスが１列に並んで停車しています。",
+        "sentence_id": "68609",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 18,
+            "end": 20,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "4台の赤い２階建てバスが１列に並んで無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1342,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "工事用の信号機が赤なので車が停車しています。",
+        "sentence_id": "71817",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 14,
+            "end": 16,
+            "original_word": "停車",
+            "new_text": "無停車",
+            "augmented_sentence": "工事用の信号機が赤なので車が無停車しています。",
+            "revision_status": null,
+            "revised_sentence": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1396,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "透明な花瓶に赤い花がいけられています。",
+        "sentence_id": "71982",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 0,
+            "end": 2,
+            "original_word": "透明",
+            "new_text": "不透明",
+            "augmented_sentence": "不透明な花瓶に赤い花がいけられています。",
+            "revision_status": "correct",
+            "revised_sentence": "不透明な花瓶に赤い花がいけられています。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1434,
+    "sentences": [
+      null,
+      {
+        "sent1_or_sent2": "s2",
+        "plain_sentence": "整頓されたキッチンに灯りが点いています。",
+        "sentence_id": "95770",
+        "augmented_sentences": [
+          {
+            "id_in_sent": 0,
+            "start": 0,
+            "end": 2,
+            "original_word": "整頓",
+            "new_text": "不整頓",
+            "augmented_sentence": "不整頓されたキッチンに灯りが点いています。",
+            "revision_status": "manual-revision",
+            "revised_sentence": "不整頓なキッチンに灯りが点いています。"
+          }
+        ]
+      }
+    ]
+  }
+]

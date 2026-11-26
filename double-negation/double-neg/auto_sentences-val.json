@@ -1,0 +1,527 @@
+[
+  {
+    "sentence_pair_id": 11,
+    "sent1_or_sent2": "s1",
+    "sentence_id": "108507",
+    "plain_sentence": "オレンジにカミソリの刃が一枚刺さり、ビンと金属の容器が置いてあります。",
+    "id_in_sent": 0,
+    "start": 21,
+    "end": 23,
+    "prefix_neg_word": "非金属",
+    "prefix_neg_sentence": "オレンジにカミソリの刃が一枚刺さり、ビンと非金属の容器が置いてあります。",
+    "revision_status": "correct",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "置かず",
+        "new_sentence": "オレンジにカミソリの刃が一枚刺さり、ビンと非金属の容器が置かずあります。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 1,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "オレンジにカミソリの刃が一枚刺さり、ビンと非金属の容器が置いてありません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 79,
+    "sent1_or_sent2": "s2",
+    "sentence_id": "128311",
+    "plain_sentence": "汚れたバスルームの金属フレームに光が反射しています。",
+    "id_in_sent": 0,
+    "start": 9,
+    "end": 11,
+    "prefix_neg_word": "非金属",
+    "prefix_neg_sentence": "汚れたバスルームの非金属フレームに光が反射しています。",
+    "revision_status": "correct",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "ていない",
+        "new_sentence": "汚れていないバスルームの非金属フレームに光が反射しています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 1,
+        "position": "sub-clausal",
+        "new_text": "せず",
+        "new_sentence": "汚れたバスルームの非金属フレームに光が反射せずいます。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 2,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "汚れたバスルームの非金属フレームに光が反射していません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 196,
+    "sent1_or_sent2": "s2",
+    "sentence_id": "46081",
+    "plain_sentence": "飛行場に停車している航空機のドアが開いています。",
+    "id_in_sent": 0,
+    "start": 4,
+    "end": 6,
+    "prefix_neg_word": "無停車",
+    "prefix_neg_sentence": "飛行場に無停車の航空機のドアが開いています。",
+    "revision_status": "manual-revision",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "開かず",
+        "new_sentence": "飛行場に無停車の航空機のドアが開かずいます。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 1,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "飛行場に無停車の航空機のドアが開いていません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 287,
+    "sent1_or_sent2": "s1",
+    "sentence_id": "80908",
+    "plain_sentence": "調理器具が整頓されたキッチンがあります。",
+    "id_in_sent": 0,
+    "start": 5,
+    "end": 7,
+    "prefix_neg_word": "不整頓",
+    "prefix_neg_sentence": "調理器具が不整頓なキッチンがあります。",
+    "revision_status": "manual-revision",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "調理器具が不整頓なキッチンがありません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 767,
+    "sent1_or_sent2": "s2",
+    "sentence_id": "117251",
+    "plain_sentence": "女の人の隣ですごい表情をしながら歯を磨いている男性がいます。",
+    "id_in_sent": 0,
+    "start": 9,
+    "end": 11,
+    "prefix_neg_word": "無表情",
+    "prefix_neg_sentence": "女の人の隣ですごい無表情をしながら歯を磨いている男性がいます。",
+    "revision_status": "correct",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "すごくない",
+        "new_sentence": "女の人の隣ですごくない無表情をしながら歯を磨いている男性がいます。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 1,
+        "position": "sub-clausal",
+        "new_text": "磨かず",
+        "new_sentence": "女の人の隣ですごい無表情をしながら歯を磨かずいる男性がいます。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 2,
+        "position": "sub-clausal",
+        "new_text": "いない",
+        "new_sentence": "女の人の隣ですごい無表情をしながら歯を磨いていない男性がいます。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 3,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "女の人の隣ですごい無表情をしながら歯を磨いている男性がいません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 773,
+    "sent1_or_sent2": "s1",
+    "sentence_id": "42036",
+    "plain_sentence": "停車している自動車の横で馬に乗っている人がいます。",
+    "id_in_sent": 0,
+    "start": 0,
+    "end": 2,
+    "prefix_neg_word": "無停車",
+    "prefix_neg_sentence": "無停車の自動車の横で馬に乗っている人がいます。",
+    "revision_status": "manual-revision",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "乗らず",
+        "new_sentence": "無停車の自動車の横で馬に乗らずいる人がいます。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 1,
+        "position": "sub-clausal",
+        "new_text": "いない",
+        "new_sentence": "無停車の自動車の横で馬に乗っていない人がいます。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 2,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "無停車の自動車の横で馬に乗っている人がいません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 773,
+    "sent1_or_sent2": "s2",
+    "sentence_id": "42040",
+    "plain_sentence": "停車している自動車の近くに馬に乗った人がいます。",
+    "id_in_sent": 0,
+    "start": 0,
+    "end": 2,
+    "prefix_neg_word": "無停車",
+    "prefix_neg_sentence": "無停車の自動車の近くに馬に乗った人がいます。",
+    "revision_status": "manual-revision",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "ていない",
+        "new_sentence": "無停車の自動車の近くに馬に乗っていない人がいます。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 1,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "無停車の自動車の近くに馬に乗った人がいません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 889,
+    "sent1_or_sent2": "s1",
+    "sentence_id": "27683",
+    "plain_sentence": "モノトーンで統一された洗面台に物が置かれています。",
+    "id_in_sent": 0,
+    "start": 6,
+    "end": 8,
+    "prefix_neg_word": "不統一",
+    "prefix_neg_sentence": "モノトーンで不統一な洗面台に物が置かれています。",
+    "revision_status": "manual-revision",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "モノトーンで不統一な洗面台に物が置かれていません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1116,
+    "sent1_or_sent2": "s1",
+    "sentence_id": "110866",
+    "plain_sentence": "ピエロが運転する黄色の車両が広場に停車しています。",
+    "id_in_sent": 0,
+    "start": 17,
+    "end": 19,
+    "prefix_neg_word": "無停車",
+    "prefix_neg_sentence": "ピエロが運転する黄色の車両は広場まで無停車です。",
+    "revision_status": "auto-revision",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "しない",
+        "new_sentence": "ピエロが運転しない黄色の車両は広場まで無停車です。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1177,
+    "sent1_or_sent2": "s1",
+    "sentence_id": "7813",
+    "plain_sentence": "四角い金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+    "id_in_sent": 0,
+    "start": 3,
+    "end": 5,
+    "prefix_neg_word": "非金属",
+    "prefix_neg_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+    "revision_status": "correct",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "四角くない",
+        "new_sentence": "四角くない非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 1,
+        "position": "sub-clausal",
+        "new_text": "焼き上がらず",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がらず細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 2,
+        "position": "sub-clausal",
+        "new_text": "れなかっ",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされなかった四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 3,
+        "position": "sub-clausal",
+        "new_text": "四角くない",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角くないピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 4,
+        "position": "sub-clausal",
+        "new_text": "入らず",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入らずおり、右には黄色と赤のソースが丸い器に入っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 5,
+        "position": "sub-clausal",
+        "new_text": "丸くない",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸くない器に入っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 6,
+        "position": "sub-clausal",
+        "new_text": "入らず",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入らずいます。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 7,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っていません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1178,
+    "sent1_or_sent2": "s1",
+    "sentence_id": "7813",
+    "plain_sentence": "四角い金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+    "id_in_sent": 0,
+    "start": 3,
+    "end": 5,
+    "prefix_neg_word": "非金属",
+    "prefix_neg_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+    "revision_status": "correct",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "四角くない",
+        "new_sentence": "四角くない非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 1,
+        "position": "sub-clausal",
+        "new_text": "焼き上がらず",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がらず細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 2,
+        "position": "sub-clausal",
+        "new_text": "れなかっ",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされなかった四角いピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 3,
+        "position": "sub-clausal",
+        "new_text": "四角くない",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角くないピザが入っており、右には黄色と赤のソースが丸い器に入っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 4,
+        "position": "sub-clausal",
+        "new_text": "入らず",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入らずおり、右には黄色と赤のソースが丸い器に入っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 5,
+        "position": "sub-clausal",
+        "new_text": "丸くない",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸くない器に入っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 6,
+        "position": "sub-clausal",
+        "new_text": "入らず",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入らずいます。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 7,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "四角い非金属の調理用のバットに、焼き上がって細長くカットされた四角いピザが入っており、右には黄色と赤のソースが丸い器に入っていません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1300,
+    "sent1_or_sent2": "s1",
+    "sentence_id": "56496",
+    "plain_sentence": "男の子と赤ちゃんが緑色の半透明のフリスビーを持って草むらに座っています。",
+    "id_in_sent": 0,
+    "start": 13,
+    "end": 15,
+    "prefix_neg_word": "不透明",
+    "prefix_neg_sentence": "男の子と赤ちゃんが緑色の不透明のフリスビーを持って草むらに座っています。",
+    "revision_status": "manual-revision",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "持たず",
+        "new_sentence": "男の子と赤ちゃんが緑色の不透明のフリスビーを持たず草むらに座っています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 1,
+        "position": "sub-clausal",
+        "new_text": "座らず",
+        "new_sentence": "男の子と赤ちゃんが緑色の不透明のフリスビーを持って草むらに座らずいます。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 2,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "男の子と赤ちゃんが緑色の不透明のフリスビーを持って草むらに座っていません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1312,
+    "sent1_or_sent2": "s2",
+    "sentence_id": "61050",
+    "plain_sentence": "透明なトレーに揚げ物が入れられています。",
+    "id_in_sent": 0,
+    "start": 0,
+    "end": 2,
+    "prefix_neg_word": "不透明",
+    "prefix_neg_sentence": "不透明なトレーに揚げ物が入れられています。",
+    "revision_status": "correct",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "でない",
+        "new_sentence": "不透明でないトレーに揚げ物が入れられています。",
+        "is_correct": true
+      },
+      {
+        "id_in_sent": 1,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "不透明なトレーに揚げ物が入れられていません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1396,
+    "sent1_or_sent2": "s2",
+    "sentence_id": "71982",
+    "plain_sentence": "透明な花瓶に赤い花がいけられています。",
+    "id_in_sent": 0,
+    "start": 0,
+    "end": 2,
+    "prefix_neg_word": "不透明",
+    "prefix_neg_sentence": "不透明な花瓶に赤い花がいけられています。",
+    "revision_status": "correct",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "でない",
+        "new_sentence": "不透明でない花瓶に赤い花がいけられています。",
+        "is_correct": true
+      },
+      {
+        "id_in_sent": 1,
+        "position": "sub-clausal",
+        "new_text": "赤くない",
+        "new_sentence": "不透明な花瓶に赤くない花がいけられています。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 2,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "不透明な花瓶に赤い花がいけられていません。",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "sentence_pair_id": 1434,
+    "sent1_or_sent2": "s2",
+    "sentence_id": "95770",
+    "plain_sentence": "整頓されたキッチンに灯りが点いています。",
+    "id_in_sent": 0,
+    "start": 0,
+    "end": 2,
+    "prefix_neg_word": "不整頓",
+    "prefix_neg_sentence": "不整頓なキッチンに灯りが点いています。",
+    "revision_status": "manual-revision",
+    "augmented_sentences": [
+      {
+        "id_in_sent": 0,
+        "position": "sub-clausal",
+        "new_text": "点かず",
+        "new_sentence": "不整頓なキッチンに灯りが点かずいます。",
+        "is_correct": false
+      },
+      {
+        "id_in_sent": 1,
+        "position": "clausal",
+        "new_text": "ません",
+        "new_sentence": "不整頓なキッチンに灯りが点いていません。",
+        "is_correct": false
+      }
+    ]
+  }
+]

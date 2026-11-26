@@ -1,0 +1,117 @@
+{
+  "非": [],
+  "不": [
+    {
+      "surface": "入り",
+      "is_correct": null
+    },
+    {
+      "surface": "出来",
+      "is_correct": null
+    },
+    {
+      "surface": "可能",
+      "is_correct": null
+    },
+    {
+      "surface": "向き",
+      "is_correct": null
+    },
+    {
+      "surface": "必要",
+      "is_correct": null
+    },
+    {
+      "surface": "揃い",
+      "is_correct": null
+    },
+    {
+      "surface": "景気",
+      "is_correct": null
+    },
+    {
+      "surface": "案内",
+      "is_correct": null
+    },
+    {
+      "surface": "注意",
+      "is_correct": null
+    },
+    {
+      "surface": "消化",
+      "is_correct": null
+    },
+    {
+      "surface": "渡り",
+      "is_correct": null
+    },
+    {
+      "surface": "生産",
+      "is_correct": null
+    },
+    {
+      "surface": "用意",
+      "is_correct": null
+    },
+    {
+      "surface": "細工",
+      "is_correct": null
+    },
+    {
+      "surface": "自然",
+      "is_correct": null
+    },
+    {
+      "surface": "自由",
+      "is_correct": null
+    },
+    {
+      "surface": "規則",
+      "is_correct": null
+    },
+    {
+      "surface": "透明",
+      "is_correct": null
+    }
+  ],
+  "無": [
+    {
+      "surface": "制限",
+      "is_correct": null
+    },
+    {
+      "surface": "意味",
+      "is_correct": null
+    },
+    {
+      "surface": "表情",
+      "is_correct": null
+    },
+    {
+      "surface": "造作",
+      "is_correct": null
+    }
+  ],
+  "未": [
+    {
+      "surface": "だに",
+      "is_correct": null
+    }
+  ],
+  "反": [
+    {
+      "surface": "する",
+      "is_correct": null
+    },
+    {
+      "surface": "作用",
+      "is_correct": null
+    }
+  ],
+  "異": [
+    {
+      "surface": "なる",
+      "is_correct": null
+    }
+  ]
+}
